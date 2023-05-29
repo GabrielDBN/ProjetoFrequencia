@@ -1,0 +1,78 @@
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\Escola.exe
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\Escola.deps.json
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\Escola.runtimeconfig.json
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\Escola.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\Escola.pdb
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\User\source\repos\Escola\Escola\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.Form1.resources
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.AssemblyInfo.cs
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.csproj.CopyComplete
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.dll
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\refint\Escola.dll
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.pdb
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.genruntimeconfig.cache
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\ref\Escola.dll
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.CadastroUsuario.resources
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.CadastroProfessor.resources
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.TelaSecretario.resources
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.CadastroAlunos.resources
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.CadastroTurma.resources
+C:\Users\User\source\repos\Escola\Escola\obj\Debug\net6.0-windows\Escola.CadstroDisciplina.resources
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\Escola.exe
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\Escola.deps.json
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\Escola.runtimeconfig.json
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\Escola.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\Escola.pdb
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\Google.Protobuf.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\MySql.Data.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.csproj.AssemblyReference.cache
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.CadastroAlunos.resources
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.CadastroProfessor.resources
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.CadastroTurma.resources
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.CadastroUsuario.resources
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.CadstroDisciplina.resources
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.Form1.resources
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.TelaSecretario.resources
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.csproj.GenerateResource.cache
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.GeneratedMSBuildEditorConfig.editorconfig
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.AssemblyInfoInputs.cache
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.AssemblyInfo.cs
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.csproj.CoreCompileInputs.cache
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.csproj.CopyComplete
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\refint\Escola.dll
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.pdb
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\Escola.genruntimeconfig.cache
+F:\Faculdade\4 Ano\Programação 3\Tarefas\Projeto\Escola\Escola\obj\Debug\net6.0-windows\ref\Escola.dll
